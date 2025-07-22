@@ -1,0 +1,185 @@
+{
+  "currentDistribution": [
+    {
+      "name": "Fleisch & Fisch",
+      "percentage": 35,
+      "trend": "up"
+    },
+    {
+      "name": "Gemüse & Obst",
+      "percentage": 25,
+      "trend": "stable"
+    },
+    {
+      "name": "Milchprodukte",
+      "percentage": 15,
+      "trend": "up"
+    },
+    {
+      "name": "Getreideprodukte",
+      "percentage": 10,
+      "trend": "down"
+    },
+    {
+      "name": "Gewürze & Zutaten",
+      "percentage": 8,
+      "trend": "stable"
+    },
+    {
+      "name": "Getränke",
+      "percentage": 7,
+      "trend": "up"
+    }
+  ],
+  "monthlyBreakdown": [
+    {
+      "month": "2024-08",
+      "categories": {
+        "Fleisch & Fisch": 4725,
+        "Gemüse & Obst": 3100,
+        "Milchprodukte": 2121,
+        "Getreideprodukte": 1394,
+        "Gewürze & Zutaten": 1319,
+        "Getränke": 1046
+      },
+      "totalCost": 13705
+    },
+    {
+      "month": "2024-09",
+      "categories": {
+        "Fleisch & Fisch": 4811,
+        "Gemüse & Obst": 3560,
+        "Milchprodukte": 2137,
+        "Getreideprodukte": 1386,
+        "Gewürze & Zutaten": 1105,
+        "Getränke": 1028
+      },
+      "totalCost": 14027
+    },
+    {
+      "month": "2024-10",
+      "categories": {
+        "Fleisch & Fisch": 5658,
+        "Gemüse & Obst": 3973,
+        "Milchprodukte": 2387,
+        "Getreideprodukte": 1638,
+        "Gewürze & Zutaten": 1237,
+        "Getränke": 1129
+      },
+      "totalCost": 16022
+    },
+    {
+      "month": "2024-11",
+      "categories": {
+        "Fleisch & Fisch": 4741,
+        "Gemüse & Obst": 3695,
+        "Milchprodukte": 2138,
+        "Getreideprodukte": 1564,
+        "Gewürze & Zutaten": 1302,
+        "Getränke": 987
+      },
+      "totalCost": 14427
+    },
+    {
+      "month": "2024-12",
+      "categories": {
+        "Fleisch & Fisch": 5295,
+        "Gemüse & Obst": 3553,
+        "Milchprodukte": 2428,
+        "Getreideprodukte": 1566,
+        "Gewürze & Zutaten": 1172,
+        "Getränke": 1144
+      },
+      "totalCost": 15158
+    },
+    {
+      "month": "2025-01",
+      "categories": {
+        "Fleisch & Fisch": 5211,
+        "Gemüse & Obst": 4087,
+        "Milchprodukte": 2379,
+        "Getreideprodukte": 1621,
+        "Gewürze & Zutaten": 1285,
+        "Getränke": 1017
+      },
+      "totalCost": 15600
+    },
+    {
+      "month": "2025-02",
+      "categories": {
+        "Fleisch & Fisch": 4878,
+        "Gemüse & Obst": 3901,
+        "Milchprodukte": 2295,
+        "Getreideprodukte": 1467,
+        "Gewürze & Zutaten": 1087,
+        "Getränke": 1105
+      },
+      "totalCost": 14733
+    },
+    {
+      "month": "2025-03",
+      "categories": {
+        "Fleisch & Fisch": 5388,
+        "Gemüse & Obst": 3609,
+        "Milchprodukte": 2346,
+        "Getreideprodukte": 1527,
+        "Gewürze & Zutaten": 1172,
+        "Getränke": 1069
+      },
+      "totalCost": 15111
+    },
+    {
+      "month": "2025-04",
+      "categories": {
+        "Fleisch & Fisch": 5430,
+        "Gemüse & Obst": 3932,
+        "Milchprodukte": 2423,
+        "Getreideprodukte": 1411,
+        "Gewürze & Zutaten": 1294,
+        "Getränke": 1105
+      },
+      "totalCost": 15595
+    },
+    {
+      "month": "2025-05",
+      "categories": {
+        "Fleisch & Fisch": 4785,
+        "Gemüse & Obst": 3468,
+        "Milchprodukte": 2358,
+        "Getreideprodukte": 1472,
+        "Gewürze & Zutaten": 1192,
+        "Getränke": 1114
+      },
+      "totalCost": 14389
+    },
+    {
+      "month": "2025-06",
+      "categories": {
+        "Fleisch & Fisch": 5360,
+        "Gemüse & Obst": 2718,
+        "Milchprodukte": 2048,
+        "Getreideprodukte": 1626,
+        "Gewürze & Zutaten": 1257,
+        "Getränke": 1134
+      },
+      "totalCost": 14143
+    },
+    {
+      "month": "2025-07",
+      "categories": {
+        "Fleisch & Fisch": 4806,
+        "Gemüse & Obst": 3187,
+        "Milchprodukte": 2328,
+        "Getreideprodukte": 1387,
+        "Gewürze & Zutaten": 1302,
+        "Getränke": 1065
+      },
+      "totalCost": 14075
+    }
+  ],
+  "yearOverYear": {
+    "currentYear": 184658,
+    "previousYear": 178475,
+    "change": "+2.8%"
+  }
+}

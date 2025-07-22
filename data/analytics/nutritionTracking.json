@@ -1,0 +1,67 @@
+{
+  "avgNutritionPerMeal": {
+    "calories": 650,
+    "protein": 28,
+    "carbs": 75,
+    "fat": 22,
+    "fiber": 8,
+    "sodium": 980
+  },
+  "monthlyAverages": [
+    {
+      "month": "2025-02",
+      "avgCalories": 660,
+      "avgProtein": 27,
+      "avgFiber": 8.321502134867531,
+      "healthScore": 8.825674416367425
+    },
+    {
+      "month": "2025-03",
+      "avgCalories": 642,
+      "avgProtein": 31,
+      "avgFiber": 7.499258827704064,
+      "healthScore": 8.533945709218477
+    },
+    {
+      "month": "2025-04",
+      "avgCalories": 674,
+      "avgProtein": 26,
+      "avgFiber": 9.365517387446872,
+      "healthScore": 8.457010476961056
+    },
+    {
+      "month": "2025-05",
+      "avgCalories": 641,
+      "avgProtein": 29,
+      "avgFiber": 8.449988563701762,
+      "healthScore": 8.99486304935308
+    },
+    {
+      "month": "2025-06",
+      "avgCalories": 668,
+      "avgProtein": 31,
+      "avgFiber": 9.181800324791297,
+      "healthScore": 8.731805834954372
+    },
+    {
+      "month": "2025-07",
+      "avgCalories": 672,
+      "avgProtein": 26,
+      "avgFiber": 7.318095324322851,
+      "healthScore": 8.158526885077524
+    }
+  ],
+  "dietaryCompliance": {
+    "vegetarianOptions": 35,
+    "veganOptions": 20,
+    "glutenFreeOptions": 15,
+    "lowCalorieOptions": 25,
+    "highProteinOptions": 30
+  },
+  "nutritionGoals": {
+    "avgCaloriesTarget": 600,
+    "maxSodiumTarget": 900,
+    "minFiberTarget": 10,
+    "status": "partially met"
+  }
+}

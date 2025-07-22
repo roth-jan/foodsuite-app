@@ -1,0 +1,105 @@
+{
+  "monthlyWaste": [
+    {
+      "month": "2024-08",
+      "totalKg": 367,
+      "costImpact": 1074,
+      "recyclingRate": 67.44592914845947
+    },
+    {
+      "month": "2024-09",
+      "totalKg": 323,
+      "costImpact": 1112,
+      "recyclingRate": 69.4428581969149
+    },
+    {
+      "month": "2024-10",
+      "totalKg": 348,
+      "costImpact": 1167,
+      "recyclingRate": 69.3165961601868
+    },
+    {
+      "month": "2024-11",
+      "totalKg": 326,
+      "costImpact": 1146,
+      "recyclingRate": 71.98252259406102
+    },
+    {
+      "month": "2024-12",
+      "totalKg": 340,
+      "costImpact": 1170,
+      "recyclingRate": 73.80510424868567
+    },
+    {
+      "month": "2025-01",
+      "totalKg": 322,
+      "costImpact": 1197,
+      "recyclingRate": 71.57965110303263
+    },
+    {
+      "month": "2025-02",
+      "totalKg": 346,
+      "costImpact": 1188,
+      "recyclingRate": 70.35532478461596
+    },
+    {
+      "month": "2025-03",
+      "totalKg": 378,
+      "costImpact": 1170,
+      "recyclingRate": 66.66585443286425
+    },
+    {
+      "month": "2025-04",
+      "totalKg": 362,
+      "costImpact": 1248,
+      "recyclingRate": 70.58221430846731
+    },
+    {
+      "month": "2025-05",
+      "totalKg": 343,
+      "costImpact": 1210,
+      "recyclingRate": 68.75947507140974
+    },
+    {
+      "month": "2025-06",
+      "totalKg": 418,
+      "costImpact": 1257,
+      "recyclingRate": 73.93741661510887
+    },
+    {
+      "month": "2025-07",
+      "totalKg": 432,
+      "costImpact": 1268,
+      "recyclingRate": 70.24734953584125
+    }
+  ],
+  "wasteByCategory": [
+    {
+      "category": "Überproduktion",
+      "percentage": 35,
+      "avgKg": 120
+    },
+    {
+      "category": "Verderb",
+      "percentage": 25,
+      "avgKg": 85
+    },
+    {
+      "category": "Tellerreste",
+      "percentage": 30,
+      "avgKg": 102
+    },
+    {
+      "category": "Lagerverluste",
+      "percentage": 10,
+      "avgKg": 34
+    }
+  ],
+  "reductionTrend": {
+    "yearStart": 400,
+    "current": 320,
+    "reduction": "20.0%",
+    "targetReduction": "25%",
+    "onTrack": true
+  }
+}

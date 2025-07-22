@@ -1,0 +1,87 @@
+{
+  "suppliers": [
+    {
+      "name": "Metro AG",
+      "onTimeDelivery": 96.5,
+      "qualityScore": 4.8,
+      "priceCompetitiveness": 4.2,
+      "orderVolume": 45000,
+      "issues": 3
+    },
+    {
+      "name": "EDEKA Foodservice",
+      "onTimeDelivery": 94.2,
+      "qualityScore": 4.6,
+      "priceCompetitiveness": 4.5,
+      "orderVolume": 38000,
+      "issues": 5
+    },
+    {
+      "name": "Transgourmet",
+      "onTimeDelivery": 97.8,
+      "qualityScore": 4.7,
+      "priceCompetitiveness": 4,
+      "orderVolume": 32000,
+      "issues": 2
+    },
+    {
+      "name": "Hoflieferant Schmidt",
+      "onTimeDelivery": 92.3,
+      "qualityScore": 4.9,
+      "priceCompetitiveness": 3.8,
+      "orderVolume": 18000,
+      "issues": 4
+    },
+    {
+      "name": "Bio-Großhandel Weber",
+      "onTimeDelivery": 95.5,
+      "qualityScore": 4.8,
+      "priceCompetitiveness": 3.5,
+      "orderVolume": 22000,
+      "issues": 3
+    }
+  ],
+  "trends": [
+    {
+      "month": "2025-02",
+      "avgOnTimeDelivery": 97.07717982525503,
+      "avgQualityScore": 4.756986565670291,
+      "totalIssues": 17
+    },
+    {
+      "month": "2025-03",
+      "avgOnTimeDelivery": 96.83486350771769,
+      "avgQualityScore": 4.652583573812122,
+      "totalIssues": 12
+    },
+    {
+      "month": "2025-04",
+      "avgOnTimeDelivery": 96.25968607265231,
+      "avgQualityScore": 4.612714890860326,
+      "totalIssues": 11
+    },
+    {
+      "month": "2025-05",
+      "avgOnTimeDelivery": 94.2155152570615,
+      "avgQualityScore": 4.773603550968573,
+      "totalIssues": 16
+    },
+    {
+      "month": "2025-06",
+      "avgOnTimeDelivery": 97.56802780367025,
+      "avgQualityScore": 4.514631101765658,
+      "totalIssues": 19
+    },
+    {
+      "month": "2025-07",
+      "avgOnTimeDelivery": 96.77087943068443,
+      "avgQualityScore": 4.560974136535988,
+      "totalIssues": 18
+    }
+  ],
+  "recommendations": [
+    "Metro AG zeigt konstant beste Lieferperformance",
+    "Preis-Verhandlungen mit Transgourmet empfohlen",
+    "Qualitätsprobleme bei EDEKA Foodservice beobachten"
+  ]
+}

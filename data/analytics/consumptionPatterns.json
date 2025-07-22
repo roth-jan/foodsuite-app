@@ -1,0 +1,131 @@
+{
+  "weeklyPattern": [
+    {
+      "day": "Montag",
+      "meals": 450,
+      "peakHour": "12:30"
+    },
+    {
+      "day": "Dienstag",
+      "meals": 480,
+      "peakHour": "12:30"
+    },
+    {
+      "day": "Mittwoch",
+      "meals": 470,
+      "peakHour": "12:45"
+    },
+    {
+      "day": "Donnerstag",
+      "meals": 490,
+      "peakHour": "12:30"
+    },
+    {
+      "day": "Freitag",
+      "meals": 420,
+      "peakHour": "12:15"
+    },
+    {
+      "day": "Samstag",
+      "meals": 150,
+      "peakHour": "12:00"
+    },
+    {
+      "day": "Sonntag",
+      "meals": 100,
+      "peakHour": "12:00"
+    }
+  ],
+  "seasonalTrends": {
+    "spring": {
+      "avgMealsPerDay": 380,
+      "popularCategories": [
+        "Salate",
+        "Leichte Gerichte"
+      ]
+    },
+    "summer": {
+      "avgMealsPerDay": 350,
+      "popularCategories": [
+        "Salate",
+        "Kalte Speisen"
+      ]
+    },
+    "autumn": {
+      "avgMealsPerDay": 420,
+      "popularCategories": [
+        "Eintöpfe",
+        "Deftige Gerichte"
+      ]
+    },
+    "winter": {
+      "avgMealsPerDay": 450,
+      "popularCategories": [
+        "Suppen",
+        "Warme Gerichte"
+      ]
+    }
+  },
+  "topDishes": [
+    {
+      "name": "Spaghetti Bolognese",
+      "servings": 2450,
+      "rating": 4.5,
+      "trend": "stable"
+    },
+    {
+      "name": "Hähnchen-Curry",
+      "servings": 2200,
+      "rating": 4.3,
+      "trend": "up"
+    },
+    {
+      "name": "Gemüselasagne",
+      "servings": 1980,
+      "rating": 4.2,
+      "trend": "up"
+    },
+    {
+      "name": "Fischfilet mit Kartoffeln",
+      "servings": 1850,
+      "rating": 4,
+      "trend": "down"
+    },
+    {
+      "name": "Rindergulasch",
+      "servings": 1720,
+      "rating": 4.4,
+      "trend": "stable"
+    },
+    {
+      "name": "Caesar Salad",
+      "servings": 1650,
+      "rating": 4.1,
+      "trend": "up"
+    },
+    {
+      "name": "Schweinebraten",
+      "servings": 1500,
+      "rating": 3.9,
+      "trend": "down"
+    },
+    {
+      "name": "Veggie-Burger",
+      "servings": 1450,
+      "rating": 4.2,
+      "trend": "up"
+    },
+    {
+      "name": "Kürbissuppe",
+      "servings": 1200,
+      "rating": 4.3,
+      "trend": "seasonal"
+    },
+    {
+      "name": "Pasta Primavera",
+      "servings": 1100,
+      "rating": 4,
+      "trend": "stable"
+    }
+  ]
+}

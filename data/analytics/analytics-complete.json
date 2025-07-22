@@ -1,0 +1,843 @@
+{
+  "dashboardMetrics": [
+    {
+      "month": "2023-08",
+      "totalCost": 19425,
+      "mealsServed": 9907,
+      "costPerMeal": "1.96",
+      "inventoryValue": 27211,
+      "activeSuppliers": 11,
+      "recipeCount": 166,
+      "avgDeliveryTime": 31,
+      "stockoutIncidents": 1
+    },
+    {
+      "month": "2023-09",
+      "totalCost": 18071,
+      "mealsServed": 9238,
+      "costPerMeal": "1.96",
+      "inventoryValue": 28044,
+      "activeSuppliers": 11,
+      "recipeCount": 164,
+      "avgDeliveryTime": 28,
+      "stockoutIncidents": 0
+    },
+    {
+      "month": "2023-10",
+      "totalCost": 16853,
+      "mealsServed": 9231,
+      "costPerMeal": "1.83",
+      "inventoryValue": 27523,
+      "activeSuppliers": 9,
+      "recipeCount": 162,
+      "avgDeliveryTime": 27,
+      "stockoutIncidents": 2
+    },
+    {
+      "month": "2023-11",
+      "totalCost": 17470,
+      "mealsServed": 8125,
+      "costPerMeal": "2.15",
+      "inventoryValue": 32215,
+      "activeSuppliers": 9,
+      "recipeCount": 160,
+      "avgDeliveryTime": 24,
+      "stockoutIncidents": 1
+    },
+    {
+      "month": "2023-12",
+      "totalCost": 15182,
+      "mealsServed": 8628,
+      "costPerMeal": "1.76",
+      "inventoryValue": 25060,
+      "activeSuppliers": 11,
+      "recipeCount": 158,
+      "avgDeliveryTime": 29,
+      "stockoutIncidents": 1
+    },
+    {
+      "month": "2024-01",
+      "totalCost": 17875,
+      "mealsServed": 9296,
+      "costPerMeal": "1.92",
+      "inventoryValue": 27183,
+      "activeSuppliers": 10,
+      "recipeCount": 156,
+      "avgDeliveryTime": 27,
+      "stockoutIncidents": 3
+    },
+    {
+      "month": "2024-02",
+      "totalCost": 18167,
+      "mealsServed": 9561,
+      "costPerMeal": "1.90",
+      "inventoryValue": 28475,
+      "activeSuppliers": 11,
+      "recipeCount": 154,
+      "avgDeliveryTime": 28,
+      "stockoutIncidents": 1
+    },
+    {
+      "month": "2024-03",
+      "totalCost": 19252,
+      "mealsServed": 9692,
+      "costPerMeal": "1.99",
+      "inventoryValue": 25646,
+      "activeSuppliers": 11,
+      "recipeCount": 152,
+      "avgDeliveryTime": 27,
+      "stockoutIncidents": 2
+    },
+    {
+      "month": "2024-04",
+      "totalCost": 15578,
+      "mealsServed": 9585,
+      "costPerMeal": "1.63",
+      "inventoryValue": 31366,
+      "activeSuppliers": 11,
+      "recipeCount": 150,
+      "avgDeliveryTime": 29,
+      "stockoutIncidents": 0
+    },
+    {
+      "month": "2024-05",
+      "totalCost": 17722,
+      "mealsServed": 9221,
+      "costPerMeal": "1.92",
+      "inventoryValue": 32024,
+      "activeSuppliers": 10,
+      "recipeCount": 148,
+      "avgDeliveryTime": 28,
+      "stockoutIncidents": 0
+    },
+    {
+      "month": "2024-06",
+      "totalCost": 19012,
+      "mealsServed": 8790,
+      "costPerMeal": "2.16",
+      "inventoryValue": 29261,
+      "activeSuppliers": 9,
+      "recipeCount": 146,
+      "avgDeliveryTime": 26,
+      "stockoutIncidents": 3
+    },
+    {
+      "month": "2024-07",
+      "totalCost": 16779,
+      "mealsServed": 8070,
+      "costPerMeal": "2.08",
+      "inventoryValue": 28417,
+      "activeSuppliers": 11,
+      "recipeCount": 144,
+      "avgDeliveryTime": 29,
+      "stockoutIncidents": 3
+    },
+    {
+      "month": "2024-08",
+      "totalCost": 18207,
+      "mealsServed": 9008,
+      "costPerMeal": "2.02",
+      "inventoryValue": 32818,
+      "activeSuppliers": 9,
+      "recipeCount": 142,
+      "avgDeliveryTime": 30,
+      "stockoutIncidents": 2
+    },
+    {
+      "month": "2024-09",
+      "totalCost": 19009,
+      "mealsServed": 8123,
+      "costPerMeal": "2.34",
+      "inventoryValue": 31092,
+      "activeSuppliers": 9,
+      "recipeCount": 140,
+      "avgDeliveryTime": 31,
+      "stockoutIncidents": 4
+    },
+    {
+      "month": "2024-10",
+      "totalCost": 18139,
+      "mealsServed": 8889,
+      "costPerMeal": "2.04",
+      "inventoryValue": 32871,
+      "activeSuppliers": 8,
+      "recipeCount": 138,
+      "avgDeliveryTime": 30,
+      "stockoutIncidents": 0
+    },
+    {
+      "month": "2024-11",
+      "totalCost": 15681,
+      "mealsServed": 9478,
+      "costPerMeal": "1.65",
+      "inventoryValue": 31937,
+      "activeSuppliers": 10,
+      "recipeCount": 136,
+      "avgDeliveryTime": 32,
+      "stockoutIncidents": 3
+    },
+    {
+      "month": "2024-12",
+      "totalCost": 17835,
+      "mealsServed": 8108,
+      "costPerMeal": "2.20",
+      "inventoryValue": 32120,
+      "activeSuppliers": 11,
+      "recipeCount": 134,
+      "avgDeliveryTime": 30,
+      "stockoutIncidents": 3
+    },
+    {
+      "month": "2025-01",
+      "totalCost": 16205,
+      "mealsServed": 8640,
+      "costPerMeal": "1.88",
+      "inventoryValue": 29236,
+      "activeSuppliers": 10,
+      "recipeCount": 132,
+      "avgDeliveryTime": 32,
+      "stockoutIncidents": 0
+    },
+    {
+      "month": "2025-02",
+      "totalCost": 16379,
+      "mealsServed": 8923,
+      "costPerMeal": "1.84",
+      "inventoryValue": 27424,
+      "activeSuppliers": 10,
+      "recipeCount": 130,
+      "avgDeliveryTime": 30,
+      "stockoutIncidents": 1
+    },
+    {
+      "month": "2025-03",
+      "totalCost": 16886,
+      "mealsServed": 8712,
+      "costPerMeal": "1.94",
+      "inventoryValue": 31695,
+      "activeSuppliers": 9,
+      "recipeCount": 128,
+      "avgDeliveryTime": 27,
+      "stockoutIncidents": 3
+    },
+    {
+      "month": "2025-04",
+      "totalCost": 18008,
+      "mealsServed": 9600,
+      "costPerMeal": "1.88",
+      "inventoryValue": 30267,
+      "activeSuppliers": 9,
+      "recipeCount": 126,
+      "avgDeliveryTime": 28,
+      "stockoutIncidents": 3
+    },
+    {
+      "month": "2025-05",
+      "totalCost": 18549,
+      "mealsServed": 9567,
+      "costPerMeal": "1.94",
+      "inventoryValue": 29595,
+      "activeSuppliers": 9,
+      "recipeCount": 124,
+      "avgDeliveryTime": 26,
+      "stockoutIncidents": 0
+    },
+    {
+      "month": "2025-06",
+      "totalCost": 19038,
+      "mealsServed": 8138,
+      "costPerMeal": "2.34",
+      "inventoryValue": 34137,
+      "activeSuppliers": 10,
+      "recipeCount": 122,
+      "avgDeliveryTime": 29,
+      "stockoutIncidents": 3
+    },
+    {
+      "month": "2025-07",
+      "totalCost": 17807,
+      "mealsServed": 8694,
+      "costPerMeal": "2.05",
+      "inventoryValue": 33988,
+      "activeSuppliers": 10,
+      "recipeCount": 120,
+      "avgDeliveryTime": 27,
+      "stockoutIncidents": 3
+    }
+  ],
+  "costAnalysis": {
+    "currentDistribution": [
+      {
+        "name": "Fleisch & Fisch",
+        "percentage": 35,
+        "trend": "up"
+      },
+      {
+        "name": "Gemüse & Obst",
+        "percentage": 25,
+        "trend": "stable"
+      },
+      {
+        "name": "Milchprodukte",
+        "percentage": 15,
+        "trend": "up"
+      },
+      {
+        "name": "Getreideprodukte",
+        "percentage": 10,
+        "trend": "down"
+      },
+      {
+        "name": "Gewürze & Zutaten",
+        "percentage": 8,
+        "trend": "stable"
+      },
+      {
+        "name": "Getränke",
+        "percentage": 7,
+        "trend": "up"
+      }
+    ],
+    "monthlyBreakdown": [
+      {
+        "month": "2024-08",
+        "categories": {
+          "Fleisch & Fisch": 4725,
+          "Gemüse & Obst": 3100,
+          "Milchprodukte": 2121,
+          "Getreideprodukte": 1394,
+          "Gewürze & Zutaten": 1319,
+          "Getränke": 1046
+        },
+        "totalCost": 13705
+      },
+      {
+        "month": "2024-09",
+        "categories": {
+          "Fleisch & Fisch": 4811,
+          "Gemüse & Obst": 3560,
+          "Milchprodukte": 2137,
+          "Getreideprodukte": 1386,
+          "Gewürze & Zutaten": 1105,
+          "Getränke": 1028
+        },
+        "totalCost": 14027
+      },
+      {
+        "month": "2024-10",
+        "categories": {
+          "Fleisch & Fisch": 5658,
+          "Gemüse & Obst": 3973,
+          "Milchprodukte": 2387,
+          "Getreideprodukte": 1638,
+          "Gewürze & Zutaten": 1237,
+          "Getränke": 1129
+        },
+        "totalCost": 16022
+      },
+      {
+        "month": "2024-11",
+        "categories": {
+          "Fleisch & Fisch": 4741,
+          "Gemüse & Obst": 3695,
+          "Milchprodukte": 2138,
+          "Getreideprodukte": 1564,
+          "Gewürze & Zutaten": 1302,
+          "Getränke": 987
+        },
+        "totalCost": 14427
+      },
+      {
+        "month": "2024-12",
+        "categories": {
+          "Fleisch & Fisch": 5295,
+          "Gemüse & Obst": 3553,
+          "Milchprodukte": 2428,
+          "Getreideprodukte": 1566,
+          "Gewürze & Zutaten": 1172,
+          "Getränke": 1144
+        },
+        "totalCost": 15158
+      },
+      {
+        "month": "2025-01",
+        "categories": {
+          "Fleisch & Fisch": 5211,
+          "Gemüse & Obst": 4087,
+          "Milchprodukte": 2379,
+          "Getreideprodukte": 1621,
+          "Gewürze & Zutaten": 1285,
+          "Getränke": 1017
+        },
+        "totalCost": 15600
+      },
+      {
+        "month": "2025-02",
+        "categories": {
+          "Fleisch & Fisch": 4878,
+          "Gemüse & Obst": 3901,
+          "Milchprodukte": 2295,
+          "Getreideprodukte": 1467,
+          "Gewürze & Zutaten": 1087,
+          "Getränke": 1105
+        },
+        "totalCost": 14733
+      },
+      {
+        "month": "2025-03",
+        "categories": {
+          "Fleisch & Fisch": 5388,
+          "Gemüse & Obst": 3609,
+          "Milchprodukte": 2346,
+          "Getreideprodukte": 1527,
+          "Gewürze & Zutaten": 1172,
+          "Getränke": 1069
+        },
+        "totalCost": 15111
+      },
+      {
+        "month": "2025-04",
+        "categories": {
+          "Fleisch & Fisch": 5430,
+          "Gemüse & Obst": 3932,
+          "Milchprodukte": 2423,
+          "Getreideprodukte": 1411,
+          "Gewürze & Zutaten": 1294,
+          "Getränke": 1105
+        },
+        "totalCost": 15595
+      },
+      {
+        "month": "2025-05",
+        "categories": {
+          "Fleisch & Fisch": 4785,
+          "Gemüse & Obst": 3468,
+          "Milchprodukte": 2358,
+          "Getreideprodukte": 1472,
+          "Gewürze & Zutaten": 1192,
+          "Getränke": 1114
+        },
+        "totalCost": 14389
+      },
+      {
+        "month": "2025-06",
+        "categories": {
+          "Fleisch & Fisch": 5360,
+          "Gemüse & Obst": 2718,
+          "Milchprodukte": 2048,
+          "Getreideprodukte": 1626,
+          "Gewürze & Zutaten": 1257,
+          "Getränke": 1134
+        },
+        "totalCost": 14143
+      },
+      {
+        "month": "2025-07",
+        "categories": {
+          "Fleisch & Fisch": 4806,
+          "Gemüse & Obst": 3187,
+          "Milchprodukte": 2328,
+          "Getreideprodukte": 1387,
+          "Gewürze & Zutaten": 1302,
+          "Getränke": 1065
+        },
+        "totalCost": 14075
+      }
+    ],
+    "yearOverYear": {
+      "currentYear": 184658,
+      "previousYear": 178475,
+      "change": "+2.8%"
+    }
+  },
+  "consumptionPatterns": {
+    "weeklyPattern": [
+      {
+        "day": "Montag",
+        "meals": 450,
+        "peakHour": "12:30"
+      },
+      {
+        "day": "Dienstag",
+        "meals": 480,
+        "peakHour": "12:30"
+      },
+      {
+        "day": "Mittwoch",
+        "meals": 470,
+        "peakHour": "12:45"
+      },
+      {
+        "day": "Donnerstag",
+        "meals": 490,
+        "peakHour": "12:30"
+      },
+      {
+        "day": "Freitag",
+        "meals": 420,
+        "peakHour": "12:15"
+      },
+      {
+        "day": "Samstag",
+        "meals": 150,
+        "peakHour": "12:00"
+      },
+      {
+        "day": "Sonntag",
+        "meals": 100,
+        "peakHour": "12:00"
+      }
+    ],
+    "seasonalTrends": {
+      "spring": {
+        "avgMealsPerDay": 380,
+        "popularCategories": [
+          "Salate",
+          "Leichte Gerichte"
+        ]
+      },
+      "summer": {
+        "avgMealsPerDay": 350,
+        "popularCategories": [
+          "Salate",
+          "Kalte Speisen"
+        ]
+      },
+      "autumn": {
+        "avgMealsPerDay": 420,
+        "popularCategories": [
+          "Eintöpfe",
+          "Deftige Gerichte"
+        ]
+      },
+      "winter": {
+        "avgMealsPerDay": 450,
+        "popularCategories": [
+          "Suppen",
+          "Warme Gerichte"
+        ]
+      }
+    },
+    "topDishes": [
+      {
+        "name": "Spaghetti Bolognese",
+        "servings": 2450,
+        "rating": 4.5,
+        "trend": "stable"
+      },
+      {
+        "name": "Hähnchen-Curry",
+        "servings": 2200,
+        "rating": 4.3,
+        "trend": "up"
+      },
+      {
+        "name": "Gemüselasagne",
+        "servings": 1980,
+        "rating": 4.2,
+        "trend": "up"
+      },
+      {
+        "name": "Fischfilet mit Kartoffeln",
+        "servings": 1850,
+        "rating": 4,
+        "trend": "down"
+      },
+      {
+        "name": "Rindergulasch",
+        "servings": 1720,
+        "rating": 4.4,
+        "trend": "stable"
+      },
+      {
+        "name": "Caesar Salad",
+        "servings": 1650,
+        "rating": 4.1,
+        "trend": "up"
+      },
+      {
+        "name": "Schweinebraten",
+        "servings": 1500,
+        "rating": 3.9,
+        "trend": "down"
+      },
+      {
+        "name": "Veggie-Burger",
+        "servings": 1450,
+        "rating": 4.2,
+        "trend": "up"
+      },
+      {
+        "name": "Kürbissuppe",
+        "servings": 1200,
+        "rating": 4.3,
+        "trend": "seasonal"
+      },
+      {
+        "name": "Pasta Primavera",
+        "servings": 1100,
+        "rating": 4,
+        "trend": "stable"
+      }
+    ]
+  },
+  "supplierPerformance": {
+    "suppliers": [
+      {
+        "name": "Metro AG",
+        "onTimeDelivery": 96.5,
+        "qualityScore": 4.8,
+        "priceCompetitiveness": 4.2,
+        "orderVolume": 45000,
+        "issues": 3
+      },
+      {
+        "name": "EDEKA Foodservice",
+        "onTimeDelivery": 94.2,
+        "qualityScore": 4.6,
+        "priceCompetitiveness": 4.5,
+        "orderVolume": 38000,
+        "issues": 5
+      },
+      {
+        "name": "Transgourmet",
+        "onTimeDelivery": 97.8,
+        "qualityScore": 4.7,
+        "priceCompetitiveness": 4,
+        "orderVolume": 32000,
+        "issues": 2
+      },
+      {
+        "name": "Hoflieferant Schmidt",
+        "onTimeDelivery": 92.3,
+        "qualityScore": 4.9,
+        "priceCompetitiveness": 3.8,
+        "orderVolume": 18000,
+        "issues": 4
+      },
+      {
+        "name": "Bio-Großhandel Weber",
+        "onTimeDelivery": 95.5,
+        "qualityScore": 4.8,
+        "priceCompetitiveness": 3.5,
+        "orderVolume": 22000,
+        "issues": 3
+      }
+    ],
+    "trends": [
+      {
+        "month": "2025-02",
+        "avgOnTimeDelivery": 97.07717982525503,
+        "avgQualityScore": 4.756986565670291,
+        "totalIssues": 17
+      },
+      {
+        "month": "2025-03",
+        "avgOnTimeDelivery": 96.83486350771769,
+        "avgQualityScore": 4.652583573812122,
+        "totalIssues": 12
+      },
+      {
+        "month": "2025-04",
+        "avgOnTimeDelivery": 96.25968607265231,
+        "avgQualityScore": 4.612714890860326,
+        "totalIssues": 11
+      },
+      {
+        "month": "2025-05",
+        "avgOnTimeDelivery": 94.2155152570615,
+        "avgQualityScore": 4.773603550968573,
+        "totalIssues": 16
+      },
+      {
+        "month": "2025-06",
+        "avgOnTimeDelivery": 97.56802780367025,
+        "avgQualityScore": 4.514631101765658,
+        "totalIssues": 19
+      },
+      {
+        "month": "2025-07",
+        "avgOnTimeDelivery": 96.77087943068443,
+        "avgQualityScore": 4.560974136535988,
+        "totalIssues": 18
+      }
+    ],
+    "recommendations": [
+      "Metro AG zeigt konstant beste Lieferperformance",
+      "Preis-Verhandlungen mit Transgourmet empfohlen",
+      "Qualitätsprobleme bei EDEKA Foodservice beobachten"
+    ]
+  },
+  "wasteAnalysis": {
+    "monthlyWaste": [
+      {
+        "month": "2024-08",
+        "totalKg": 367,
+        "costImpact": 1074,
+        "recyclingRate": 67.44592914845947
+      },
+      {
+        "month": "2024-09",
+        "totalKg": 323,
+        "costImpact": 1112,
+        "recyclingRate": 69.4428581969149
+      },
+      {
+        "month": "2024-10",
+        "totalKg": 348,
+        "costImpact": 1167,
+        "recyclingRate": 69.3165961601868
+      },
+      {
+        "month": "2024-11",
+        "totalKg": 326,
+        "costImpact": 1146,
+        "recyclingRate": 71.98252259406102
+      },
+      {
+        "month": "2024-12",
+        "totalKg": 340,
+        "costImpact": 1170,
+        "recyclingRate": 73.80510424868567
+      },
+      {
+        "month": "2025-01",
+        "totalKg": 322,
+        "costImpact": 1197,
+        "recyclingRate": 71.57965110303263
+      },
+      {
+        "month": "2025-02",
+        "totalKg": 346,
+        "costImpact": 1188,
+        "recyclingRate": 70.35532478461596
+      },
+      {
+        "month": "2025-03",
+        "totalKg": 378,
+        "costImpact": 1170,
+        "recyclingRate": 66.66585443286425
+      },
+      {
+        "month": "2025-04",
+        "totalKg": 362,
+        "costImpact": 1248,
+        "recyclingRate": 70.58221430846731
+      },
+      {
+        "month": "2025-05",
+        "totalKg": 343,
+        "costImpact": 1210,
+        "recyclingRate": 68.75947507140974
+      },
+      {
+        "month": "2025-06",
+        "totalKg": 418,
+        "costImpact": 1257,
+        "recyclingRate": 73.93741661510887
+      },
+      {
+        "month": "2025-07",
+        "totalKg": 432,
+        "costImpact": 1268,
+        "recyclingRate": 70.24734953584125
+      }
+    ],
+    "wasteByCategory": [
+      {
+        "category": "Überproduktion",
+        "percentage": 35,
+        "avgKg": 120
+      },
+      {
+        "category": "Verderb",
+        "percentage": 25,
+        "avgKg": 85
+      },
+      {
+        "category": "Tellerreste",
+        "percentage": 30,
+        "avgKg": 102
+      },
+      {
+        "category": "Lagerverluste",
+        "percentage": 10,
+        "avgKg": 34
+      }
+    ],
+    "reductionTrend": {
+      "yearStart": 400,
+      "current": 320,
+      "reduction": "20.0%",
+      "targetReduction": "25%",
+      "onTrack": true
+    }
+  },
+  "nutritionTracking": {
+    "avgNutritionPerMeal": {
+      "calories": 650,
+      "protein": 28,
+      "carbs": 75,
+      "fat": 22,
+      "fiber": 8,
+      "sodium": 980
+    },
+    "monthlyAverages": [
+      {
+        "month": "2025-02",
+        "avgCalories": 660,
+        "avgProtein": 27,
+        "avgFiber": 8.321502134867531,
+        "healthScore": 8.825674416367425
+      },
+      {
+        "month": "2025-03",
+        "avgCalories": 642,
+        "avgProtein": 31,
+        "avgFiber": 7.499258827704064,
+        "healthScore": 8.533945709218477
+      },
+      {
+        "month": "2025-04",
+        "avgCalories": 674,
+        "avgProtein": 26,
+        "avgFiber": 9.365517387446872,
+        "healthScore": 8.457010476961056
+      },
+      {
+        "month": "2025-05",
+        "avgCalories": 641,
+        "avgProtein": 29,
+        "avgFiber": 8.449988563701762,
+        "healthScore": 8.99486304935308
+      },
+      {
+        "month": "2025-06",
+        "avgCalories": 668,
+        "avgProtein": 31,
+        "avgFiber": 9.181800324791297,
+        "healthScore": 8.731805834954372
+      },
+      {
+        "month": "2025-07",
+        "avgCalories": 672,
+        "avgProtein": 26,
+        "avgFiber": 7.318095324322851,
+        "healthScore": 8.158526885077524
+      }
+    ],
+    "dietaryCompliance": {
+      "vegetarianOptions": 35,
+      "veganOptions": 20,
+      "glutenFreeOptions": 15,
+      "lowCalorieOptions": 25,
+      "highProteinOptions": 30
+    },
+    "nutritionGoals": {
+      "avgCaloriesTarget": 600,
+      "maxSodiumTarget": 900,
+      "minFiberTarget": 10,
+      "status": "partially met"
+    }
+  }
+}
