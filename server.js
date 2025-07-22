@@ -130,11 +130,11 @@ app.use('/api', (req, res, next) => {
 
 // API Routes
 // Auth routes (no authentication required for login)
-app.use('/api/auth', authRoutes);
+//app.use('/api/auth', authRoutes);
 
 // Protected routes
-app.use('/api/users', userRoutes);
-app.use('/api/roles', roleRoutes);
+//app.use('/api/users', userRoutes);
+//app.use('/api/roles', roleRoutes);
 app.use('/api/products', productRoutes);
 app.use('/api/suppliers', supplierRoutes);
 app.use('/api/orders', orderRoutes);
